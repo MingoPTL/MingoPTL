@@ -4,7 +4,9 @@
 **MingoPTL/MingoPTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Tôi là Minh và tôi yêu GPT
+Hello everyone
+Liên hệ qua email nhá
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
